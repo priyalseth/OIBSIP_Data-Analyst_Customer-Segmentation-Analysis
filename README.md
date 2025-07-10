@@ -64,7 +64,6 @@ This project uses the `ifood_df.csv` dataset, which contains customer details in
 
 - PCA scatter plot showing cluster separability
 - Heatmap of mean values per cluster
-- Bar plots for customer behavior and demographics
 - Distribution charts of income, age, and purchasing patterns
 
 ---
